@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Yecko71
+name: Ollie
 
 # Short bio or description (displayed in the header)
-description: Awesome
+description: The one who tries hard but rarely succeeds!!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://store.playstation.com/store/api/chihiro/00_09_000/container/HR/en/999/EP0001-CUSA01788_00-AV00000000000012/1495070591000/image?_version=00_09_000&platform=chihiro&w=124&h=124&bg_color=000000&opacity=100
-
+avatar:  https://tse1.mm.bing.net/th?id=OIP.KmubhjeoqUGWo3v09anYTAD6D6&pid=15.1 
 #
 # Flags below are optional
 #
@@ -18,11 +17,11 @@ avatar: https://store.playstation.com/store/api/chihiro/00_09_000/container/HR/e
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: shn.hacks71@gmail.com
-  facebook: yecko71
+  email: oliver.ensor@challoners.org
+  facebook: 
   flickr:
-  github: barryclark/jekyll-now
-  instagram: yecko71
+  github: 
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
