@@ -2,7 +2,7 @@
 title: Week 1: recreating our Github pages
 layout: post
 author: oliver.ensor
-permalink: /week-1:-recreating-our-github-pages/
+permalink: /week-1-recreating-our-github-pages/
 source-id: 1OxM9AnBrssTORSkWFJE5ZWdl7sofU_RTBOjkHrehY_w
 published: true
 ---
